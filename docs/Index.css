@@ -60,7 +60,7 @@ section article {
 section article p {
   color: #4b5773;
 }
-.works {
+.work {
   margin: 10% 0;
 }
 
@@ -72,7 +72,7 @@ section article p {
   text-decoration: none;
   color: inherit;
 }
-.works__moreWorks {
+.work__moreWork {
   display: flex;
 }
 .work__firstWorkImage {
