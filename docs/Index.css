@@ -76,7 +76,7 @@ section article p {
   display: flex;
 }
 .work__firstWorkImage {
-  width: 70%;
+  width: 60%;
   border-width: 8px;
   border-style: solid;
   border-color: #9ac7c8;
@@ -100,4 +100,34 @@ section article p {
 .work {
   float: left;
   width: 50%;
+}
+.banner__imgContainer {
+  overflow: hidden;
+  max-height: 300px;
+}
+.banner img {
+  width: 100%;
+}
+.banner h3 {
+  margin: 0 10%;
+  text-align: center;
+  margin-top: -150px;
+  font-size: 400%;
+  color: #ffffff;
+}
+
+.contactme {
+  display: flex;
+  justify-content: space-between;
+}
+.profilephoto {
+  margin-top: 5%;
+  width: 30%;
+  height: 80%;
+}
+.contactme a {
+  margin: 200px 10%;
+  margin-left: 10%;
+  color: #4b5773;
+  font-size: 300%;
 }
