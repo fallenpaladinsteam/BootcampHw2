@@ -9,7 +9,7 @@
 
 ### The website can be viewed [Here](https://fallenpaladinsteam.github.io/BootcampHw2/Index.html#)
 
-### Url - [https://pdsan97.github.io/BootcampHw2/Index.html#](https://fallenpaladinsteam.github.io/BootcampHw2/Index.html#)
+### Url - [https://pdsan97.github.io/BootcampHw2/Index.html#](https://pdsan97.github.io/BootcampHw2/Index.html#)
 
 ### Installation
 
