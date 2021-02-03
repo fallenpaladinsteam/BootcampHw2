@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+nav {
+  background-color: rgb(48, 51, 60);
+}
+.header {
+  margin-right: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+.header__name {
+  background-color: #90cbcc;
+  margin: 1% 0;
+  font-size: 250%;
+  text-decoration: none;
+  color: #353147;
+  font-weight: 00;
+  padding-left: 10%;
+  padding-right: 2.5%;
+  margin-right: 25%;
+}
+.header__navigation {
+  margin: 1% 0;
+  font-size: 175%;
+  color: #96c8c8;
+  text-decoration: none;
+  border-bottom-width: 6px;
+  border-bottom-style: solid;
+}
+
+.content {
+  margin: 10% 0;
+}
+
+section {
+  display: flex;
+  margin: -10% 0;
+}
+
+section .vl {
+  border-left: 6px solid #49576c;
+  margin: 7.5% 0;
+  margin-right: 2%;
+}
+section h1 {
+  margin: 10% 1%;
+  margin-left: 10%;
+  color: #4b5773;
+  font-size: 300%;
+}
+section article {
+  margin: 10% 0;
+}
+section article p {
+  color: #4b5773;
+}
+.works {
+  margin: 10% 0;
+}
+
+.work {
+  text-decoration: none;
+}
