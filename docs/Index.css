@@ -66,4 +66,38 @@ section article p {
 
 .work {
   text-decoration: none;
+  color: inherit;
+}
+.firstWork {
+  text-decoration: none;
+  color: inherit;
+}
+.works__moreWorks {
+  display: flex;
+}
+.work__firstWorkImage {
+  width: 70%;
+  border-width: 8px;
+  border-style: solid;
+  border-color: #9ac7c8;
+}
+.work__image {
+  margin: 0 10%;
+  width: 50%;
+  border-width: 8px;
+  border-style: solid;
+  border-color: #9ac7c8;
+}
+
+.work__title {
+  color: #2e3246;
+  font-size: x-large;
+}
+* {
+  box-sizing: border-box;
+}
+
+.work {
+  float: left;
+  width: 50%;
 }
