@@ -93,9 +93,6 @@ section article p {
   color: #2e3246;
   font-size: x-large;
 }
-* {
-  box-sizing: border-box;
-}
 
 .work {
   float: left;
@@ -130,4 +127,52 @@ section article p {
   margin-left: 10%;
   color: #4b5773;
   font-size: 300%;
+}
+
+/*Responsive*/
+@media screen and (max-width: 800px) {
+  section {
+    display: flex;
+    flex-direction: column;
+    margin: -10% 5%;
+  }
+
+  section .vl {
+    border-left: none;
+
+    margin: 7.5% 0;
+    margin-right: 2%;
+  }
+  section h1 {
+    margin: 10% 1%;
+    margin-left: 10%;
+    color: #4b5773;
+    font-size: 300%;
+  }
+  .banner h3 {
+    margin-top: -100px;
+  }
+  .profilephoto {
+    margin: 0 10%;
+    width: 80%;
+  }
+  .header {
+    flex-direction: column;
+  }
+  .contactme a {
+    margin: 200px 10%;
+    margin-left: 10%;
+    color: #4b5773;
+    font-size: 200%;
+  }
+  .work__title {
+    color: #2e3246;
+    font-size: large;
+  }
+  .work p {
+    font-size: small;
+  }
+  .work__image {
+    width: 80%;
+  }
 }
