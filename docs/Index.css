@@ -100,7 +100,7 @@ section article p {
 }
 .banner__imgContainer {
   overflow: hidden;
-  max-height: 300px;
+  min-height: 300px;
 }
 .banner img {
   width: 100%;
