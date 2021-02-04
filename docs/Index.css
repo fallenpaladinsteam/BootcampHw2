@@ -83,7 +83,8 @@ section article p {
 }
 .work__image {
   margin: 0 10%;
-  width: 50%;
+  height: 90%;
+  width: 90%;
   border-width: 8px;
   border-style: solid;
   border-color: #9ac7c8;
@@ -96,6 +97,7 @@ section article p {
 
 .work {
   float: left;
+  height: 40;
   width: 50%;
 }
 .banner__imgContainer {
@@ -120,7 +122,7 @@ section article p {
 .profilephoto {
   margin-top: 5%;
   width: 30%;
-  height: 80%;
+  height: 60%;
 }
 .contactme a {
   margin: 200px 10%;
