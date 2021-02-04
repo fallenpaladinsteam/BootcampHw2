@@ -15,11 +15,11 @@ nav {
   justify-content: space-between;
 }
 .header__name {
-  background-color: #90cbcc;
+  background-color: #8bc8c9;
   margin: 1% 0;
   font-size: 250%;
   text-decoration: none;
-  color: #353147;
+  color: #573ca3;
   font-weight: 00;
   padding-left: 10%;
   padding-right: 2.5%;
@@ -28,7 +28,7 @@ nav {
 .header__navigation {
   margin: 1% 0;
   font-size: 175%;
-  color: #96c8c8;
+  color: #5452d1;
   text-decoration: none;
   border-bottom-width: 6px;
   border-bottom-style: solid;
@@ -51,7 +51,7 @@ section .vl {
 section h1 {
   margin: 10% 1%;
   margin-left: 10%;
-  color: #4b5773;
+  color: #0d121f;
   font-size: 300%;
 }
 section article {
